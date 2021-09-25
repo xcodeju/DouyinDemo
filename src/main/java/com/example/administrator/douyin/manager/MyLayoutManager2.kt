@@ -1,10 +1,11 @@
-package com.example.administrator.douyin
+package com.example.administrator.douyin.manager
 
 import android.content.Context
 import android.support.v7.widget.LinearLayoutManager
 import android.support.v7.widget.PagerSnapHelper
 import android.support.v7.widget.RecyclerView
 import android.view.View
+import com.example.administrator.douyin.util.OnViewPagerListener
 
 
 class MyLayoutManager2 : LinearLayoutManager, RecyclerView.OnChildAttachStateChangeListener {

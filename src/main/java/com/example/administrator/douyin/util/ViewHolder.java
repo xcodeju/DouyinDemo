@@ -1,10 +1,12 @@
-package com.example.administrator.douyin;
+package com.example.administrator.douyin.util;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.VideoView;
+
+import com.example.administrator.douyin.R;
 
 public class ViewHolder extends RecyclerView.ViewHolder {
     ImageView img_thumb;

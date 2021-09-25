@@ -1,4 +1,4 @@
-package com.example.administrator.douyin
+package com.example.administrator.douyin.view
 
 import android.animation.Animator
 import android.animation.AnimatorListenerAdapter
@@ -13,6 +13,7 @@ import android.view.View
 import android.view.animation.LinearInterpolator
 import android.widget.ImageView
 import android.widget.RelativeLayout
+import com.example.administrator.douyin.R
 import java.util.*
 
 

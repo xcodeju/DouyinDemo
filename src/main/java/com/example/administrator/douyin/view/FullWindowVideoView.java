@@ -1,4 +1,4 @@
-package com.example.administrator.douyin;
+package com.example.administrator.douyin.view;
 
 import android.content.Context;
 import android.util.AttributeSet;

@@ -1,4 +1,4 @@
-package com.example.administrator.douyin;
+package com.example.administrator.douyin.manager;
 
 import android.annotation.TargetApi;
 import android.media.MediaPlayer;
@@ -8,6 +8,9 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.VideoView;
+
+import com.example.administrator.douyin.view.FullWindowVideoView;
+import com.example.administrator.douyin.R;
 
 public class PlayVideoManager {
 

@@ -1,4 +1,4 @@
-package com.example.administrator.douyin;
+package com.example.administrator.douyin.activity;
 
 import android.os.Build;
 import android.os.Bundle;
@@ -10,6 +10,12 @@ import android.util.Log;
 import android.view.View;
 import android.view.Window;
 import android.view.WindowManager;
+
+import com.example.administrator.douyin.util.MyAdapter;
+import com.example.administrator.douyin.manager.MyLayoutManager2;
+import com.example.administrator.douyin.util.OnViewPagerListener;
+import com.example.administrator.douyin.manager.PlayVideoManager;
+import com.example.administrator.douyin.R;
 
 
 public class MainActivity extends AppCompatActivity {

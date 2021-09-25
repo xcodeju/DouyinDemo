@@ -1,4 +1,4 @@
-package com.example.administrator.douyin;
+package com.example.administrator.douyin.util;
 
 /**
  * @author jrl

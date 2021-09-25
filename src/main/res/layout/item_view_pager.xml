@@ -4,7 +4,7 @@
     android:id="@+id/root_view"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
-    <com.example.administrator.douyin.FullWindowVideoView
+    <com.example.administrator.douyin.view.FullWindowVideoView
         android:id="@+id/video_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -92,9 +92,9 @@
         android:layout_centerInParent="true"
         />
 
-    <com.example.administrator.douyin.Love2
+    <com.example.administrator.douyin.view.Love2
         android:layout_width="match_parent"
         android:layout_height="match_parent">
-    </com.example.administrator.douyin.Love2>
+    </com.example.administrator.douyin.view.Love2>
 
 </RelativeLayout>
