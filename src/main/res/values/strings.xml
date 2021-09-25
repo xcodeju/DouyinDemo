@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">DouYinJrl</string>
+    <string name="btn_share">分享主页</string>
+    <string name="tv_user_name">木木鱼</string>
+    <string name="tv_place">广东·广州</string>
+    <string name="tv_star">天蝎座</string>
+    <string name="tv_product">作品0</string>
+    <string name="tv_love">喜欢0</string>
+    <string name="tv_douyin_id">抖音ID:117954414</string>
+    <string name="tv_signature">本宝宝暂时还没想到个性的签名</string>
 </resources>
